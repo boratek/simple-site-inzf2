@@ -1,3 +1,5 @@
+Simple site in ZF2 - project chat
+
 ZendSkeletonApplication
 =======================
 
