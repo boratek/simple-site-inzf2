@@ -1,0 +1,5 @@
+<?php if(isset($name) && $name != ''): ?>
+<?php echo 'Hello ' . $name . '!'; ?>
+<?php else: ?>
+Hello World!
+<?php endif; ?>
